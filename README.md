@@ -18,8 +18,7 @@ For VRM/Rigify/Unknown, unmapped bones are standardized (e.g., .L/.R -> _l/_r, .
 - 需要选中骨骼在编辑模式下运行此脚本
 - 支持骨骼类型: VRM / Rigify / Mixamo
 - 注意：Mixamo骨骼会删除 头部/手指/脚趾 的_End末端骨骼
-- 请注意原始数据版权，此脚本不对版权负责
 
   ---
-
-  此脚本由Qwen3-Coder辅助完成
+- 请注意原始数据版权，此脚本不对版权负责
+- 此脚本由Qwen3-Coder辅助完成
